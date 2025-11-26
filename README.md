@@ -1,6 +1,6 @@
 # Freelancer-Excel-Dashboard
-The dataset contains detailed information about freelancers working on a digital platform. Each row represents one freelancer, and the columns provide key attributes related to their activity, performance, and background.
-Project Objectives:
+**The dataset contains detailed information about freelancers working on a digital platform. Each row represents one freelancer, and the columns provide key attributes related to their activity, performance, and background.
+**Project Objectives:
 	To analyse the distribution of Active vs Inactive freelancers
 	To compare hourly rates across genders
 	To study the relationship between years of experience and number of projects
